@@ -1,4 +1,4 @@
-# Sampath Ayurvedha — Plexis concept
+# Sampath Ayurvedha — NRV concept
 
 Sinhala-first ecommerce prototype. Static HTML, CSS and JavaScript, hosted with GitHub Pages.
 
